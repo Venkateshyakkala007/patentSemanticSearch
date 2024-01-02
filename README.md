@@ -17,3 +17,17 @@
 
 ## After that i created One Web App using streamlit lib and api using flask
 
+### web app : check searchApp.py
+
+pip install streamlit
+
+and run using : streamlit run searchApp.py
+
+### API using flask
+
+start :
+
+pip install flask
+
+run using : python install flask
+
