@@ -8,6 +8,12 @@
 
 ## to install elastic search :
 
-  First download elastic search. Then start the elastic search sever bat file.
+  First download elastic search. Then start the elastic search sever by using elastic.bat file.
 
   The sever starts in our browser https://localhost:9200
+
+  In Elastic Search i created index all_patents.
+
+
+## After that i created One Web App using streamlit lib and api using flask
+
